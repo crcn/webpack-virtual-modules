@@ -58,6 +58,8 @@
   },
   "files": [
     "*.js",
+    "lib/**/*.js",
+    "lib/**/*.d.ts",
     "*.d.ts"
   ],
   "publishConfig": {
