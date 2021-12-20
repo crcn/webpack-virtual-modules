@@ -1,6 +1,6 @@
 {
   "name": "webpack-virtual-modules-fix-refresh",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "description": "Webpack Virtual Modules",
   "main": "src/index.ts",
   "scripts": {
@@ -60,6 +60,7 @@
     "*.js",
     "lib/**/*.js",
     "lib/**/*.d.ts",
+    "src/*",
     "*.d.ts"
   ],
   "publishConfig": {
