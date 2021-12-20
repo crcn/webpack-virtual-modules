@@ -1,5 +1,4 @@
 .tmp
-lib
 node_modules
 dist
 .nyc_output
